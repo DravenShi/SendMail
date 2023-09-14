@@ -1,0 +1,8 @@
+D:\桓基科技\otherCode\SendMail\SendMail\bin\Debug\SendMail.exe.config
+D:\桓基科技\otherCode\SendMail\SendMail\bin\Debug\SendMail.exe
+D:\桓基科技\otherCode\SendMail\SendMail\bin\Debug\SendMail.pdb
+D:\桓基科技\otherCode\SendMail\SendMail\obj\Debug\SendMail.csproj.AssemblyReference.cache
+D:\桓基科技\otherCode\SendMail\SendMail\obj\Debug\SendMail.csproj.SuggestedBindingRedirects.cache
+D:\桓基科技\otherCode\SendMail\SendMail\obj\Debug\SendMail.csproj.CoreCompileInputs.cache
+D:\桓基科技\otherCode\SendMail\SendMail\obj\Debug\SendMail.exe
+D:\桓基科技\otherCode\SendMail\SendMail\obj\Debug\SendMail.pdb
